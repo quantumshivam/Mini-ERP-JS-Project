@@ -1,0 +1,12 @@
+{
+  "name": "ERP-project",
+  "version": "1.0.0",
+  "description": "A modular Mini-ERP system to practice core JavaScript concepts",
+  "main": "erp_master.js",
+  "type": "module",
+  "scripts": {
+    "start": "node erp_master.js"
+  },
+  "author": "Shivam",
+  "license": "ISC"
+}
